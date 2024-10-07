@@ -1,4 +1,4 @@
-💻 3rd year Computer Enginnering student @FEUP
+💻 Computer Enginnering graduate @FEUP
 
 <!---
 6ernardo/6ernardo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
